@@ -1,0 +1,10 @@
+.venv/*
+venv/bin
+venv/include
+venv/lib
+venv/lib64
+venv/main1.py
+venv/pyvenv.cfg
+.idea/workspace.xml
+.venv
+.idea
