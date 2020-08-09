@@ -4,16 +4,6 @@
     <list default="true" id="1aed768a-13a2-4000-95b1-14ae3be433fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main" beforeDir="false" afterPath="$PROJECT_DIR$/main" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/Activate.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate.csh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate.fish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python3.8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib64" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/main1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,22 +104,22 @@
       <screen x="72" y="27" width="728" height="573" />
     </state>
     <state x="219" y="71" width="424" height="491" key="FileChooserDialogImpl/72.27.728.573@72.27.728.573" timestamp="1596993159273" />
-    <state width="685" height="104" key="GridCell.Tab.0.bottom" timestamp="1596988441625">
+    <state width="705" height="117" key="GridCell.Tab.0.bottom" timestamp="1596995317484">
       <screen x="72" y="27" width="728" height="573" />
     </state>
-    <state width="685" height="104" key="GridCell.Tab.0.bottom/72.27.728.573@72.27.728.573" timestamp="1596988441625" />
-    <state width="685" height="104" key="GridCell.Tab.0.center" timestamp="1596988441620">
+    <state width="705" height="117" key="GridCell.Tab.0.bottom/72.27.728.573@72.27.728.573" timestamp="1596995317484" />
+    <state width="705" height="117" key="GridCell.Tab.0.center" timestamp="1596995317474">
       <screen x="72" y="27" width="728" height="573" />
     </state>
-    <state width="685" height="104" key="GridCell.Tab.0.center/72.27.728.573@72.27.728.573" timestamp="1596988441620" />
-    <state width="685" height="104" key="GridCell.Tab.0.left" timestamp="1596988441619">
+    <state width="705" height="117" key="GridCell.Tab.0.center/72.27.728.573@72.27.728.573" timestamp="1596995317474" />
+    <state width="705" height="117" key="GridCell.Tab.0.left" timestamp="1596995317468">
       <screen x="72" y="27" width="728" height="573" />
     </state>
-    <state width="685" height="104" key="GridCell.Tab.0.left/72.27.728.573@72.27.728.573" timestamp="1596988441619" />
-    <state width="685" height="104" key="GridCell.Tab.0.right" timestamp="1596988441620">
+    <state width="705" height="117" key="GridCell.Tab.0.left/72.27.728.573@72.27.728.573" timestamp="1596995317468" />
+    <state width="705" height="117" key="GridCell.Tab.0.right" timestamp="1596995317475">
       <screen x="72" y="27" width="728" height="573" />
     </state>
-    <state width="685" height="104" key="GridCell.Tab.0.right/72.27.728.573@72.27.728.573" timestamp="1596988441620" />
+    <state width="705" height="117" key="GridCell.Tab.0.right/72.27.728.573@72.27.728.573" timestamp="1596995317475" />
     <state x="72" y="27" key="SettingsEditor" timestamp="1596993033981">
       <screen x="72" y="27" width="728" height="573" />
     </state>
